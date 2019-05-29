@@ -1,5 +1,2 @@
 # miniProjetgit
-
-
-
-aziz 
+git clone 
